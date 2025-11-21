@@ -64,6 +64,6 @@ This vulnerability was discovered by **Alex Perrakis** (Stolichnayer).
 
 ## 🔗 References:
 - [Eigenfocus Github Repository](https://github.com/Eigenfocus/eigenfocus)
-- [Patched Version (v4.7.2)](https://github.com/Eigenfocus/eigenfocus/releases/tag/v1.4.1-free)
+- [Patched Version (v1.4.1)](https://github.com/Eigenfocus/eigenfocus/releases/tag/v1.4.1-free)
 - [Fix Commit](https://github.com/Eigenfocus/eigenfocus/commit/7dec94c9d1f3e513e0ee38ba68caaba628e08582)
 
